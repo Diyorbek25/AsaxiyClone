@@ -1,1 +1,10 @@
-﻿/.vs/
+﻿/.idea/
+/.vs/
+/.idea/
+/DataAccess/bin/
+/DataAccess/obj/
+/Backend/.idea/
+/Backend/.vs/
+/Backend/bin/
+/Backend/obj/
+/DataAccess/obj/
