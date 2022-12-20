@@ -1,5 +1,5 @@
 # AsaxiyClone
 Shohruz -> Category, Book models <br>
-Ravshan -> UserHistory, OrderDetail
-Abdumannon -> Order, Bucket
-Diyorbek -> User, Comment
+Ravshan -> UserHistory, OrderDetail <br>
+Abdumannon -> Order, Bucket <br>
+Diyorbek -> User, Comment <br>
