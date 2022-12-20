@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Abdumannon-PC\\Desktop\\AsaxiyClone\\Backend\\Backend.csproj": {}
+    "C:\\Users\\Ravshan\\Desktop\\assahiy\\AsaxiyClone\\Backend\\Backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abdumannon-PC\\Desktop\\AsaxiyClone\\Backend\\Backend.csproj": {
+    "C:\\Users\\Ravshan\\Desktop\\assahiy\\AsaxiyClone\\Backend\\Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abdumannon-PC\\Desktop\\AsaxiyClone\\Backend\\Backend.csproj",
+        "projectUniqueName": "C:\\Users\\Ravshan\\Desktop\\assahiy\\AsaxiyClone\\Backend\\Backend.csproj",
         "projectName": "Backend",
-        "projectPath": "C:\\Users\\Abdumannon-PC\\Desktop\\AsaxiyClone\\Backend\\Backend.csproj",
-        "packagesPath": "C:\\Users\\Abdumannon-PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abdumannon-PC\\Desktop\\AsaxiyClone\\Backend\\obj\\",
+        "projectPath": "C:\\Users\\Ravshan\\Desktop\\assahiy\\AsaxiyClone\\Backend\\Backend.csproj",
+        "packagesPath": "C:\\Users\\Ravshan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ravshan\\Desktop\\assahiy\\AsaxiyClone\\Backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Abdumannon-PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Ravshan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -67,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
