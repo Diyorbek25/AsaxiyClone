@@ -1910,19 +1910,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ravshan\\.nuget\\packages\\": {}
+    "C:\\Users\\99890\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ravshan\\Desktop\\assahiy\\AsaxiyClone\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\99890\\Desktop\\AsaxiyClone\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\Ravshan\\Desktop\\assahiy\\AsaxiyClone\\DataAccess\\DataAccess.csproj",
-      "packagesPath": "C:\\Users\\Ravshan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ravshan\\Desktop\\assahiy\\AsaxiyClone\\DataAccess\\obj\\",
+      "projectPath": "C:\\Users\\99890\\Desktop\\AsaxiyClone\\DataAccess\\DataAccess.csproj",
+      "packagesPath": "C:\\Users\\99890\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\99890\\Desktop\\AsaxiyClone\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ravshan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\99890\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1969,7 +1969,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
