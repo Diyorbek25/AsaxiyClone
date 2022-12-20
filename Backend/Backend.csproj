@@ -7,4 +7,14 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="obj\Debug\net6.0\Backend.AssemblyInfoInputs.cache" />
+    <Content Include="obj\Debug\net6.0\Backend.assets.cache" />
+    <Content Include="obj\Debug\net6.0\Backend.csproj.AssemblyReference.cache" />
+  </ItemGroup>
+
 </Project>
