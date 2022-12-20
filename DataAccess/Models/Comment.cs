@@ -3,8 +3,8 @@
 public class Comment
 {
     public int Id { get; set; }
-    
-    pub
+
+    public string Text { get; set; }
 
     //Rate for comments 
     public int Rate { get; set; }
