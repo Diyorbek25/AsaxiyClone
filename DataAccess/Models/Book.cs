@@ -8,6 +8,6 @@ public class Book
     public byte Status { get; set; }
     public string Author { get; set; }
     public int Raiting { get; set; }
-    public int Category_Id { get; set; }
+    public Category Category { get; set; }
 
 }
