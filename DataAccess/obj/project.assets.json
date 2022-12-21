@@ -1906,23 +1906,24 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Microsoft.EntityFrameworkCore >= 6.0.12",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.12"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ravshan\\.nuget\\packages\\": {}
+    "C:\\Users\\shohr\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ravshan\\Desktop\\assahiy\\AsaxiyClone\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\shohr\\Desktop\\GitHub\\Asaxiy\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\Ravshan\\Desktop\\assahiy\\AsaxiyClone\\DataAccess\\DataAccess.csproj",
-      "packagesPath": "C:\\Users\\Ravshan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ravshan\\Desktop\\assahiy\\AsaxiyClone\\DataAccess\\obj\\",
+      "projectPath": "C:\\Users\\shohr\\Desktop\\GitHub\\Asaxiy\\DataAccess\\DataAccess.csproj",
+      "packagesPath": "C:\\Users\\shohr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\shohr\\Desktop\\GitHub\\Asaxiy\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ravshan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\shohr\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1948,6 +1949,10 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[6.0.12, )"
+          },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
             "version": "[6.0.12, )"
