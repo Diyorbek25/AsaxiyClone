@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsaxiyClone.Api", "AsaxiyCl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsaxiyClone.Application", "AsaxiyClone.Application\AsaxiyClone.Application.csproj", "{C8730609-9E7A-4797-890D-11860CB57EFE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsaxiyClone.Domain", "AsaxiyClone.Domain\AsaxiyClone.Domain.csproj", "{01DFDCF9-96C5-4115-BFD0-2F4B30A9B3A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsaxiyClone.Infrastructure", "AsaxiyClone.Infrastructure\AsaxiyClone.Infrastructure.csproj", "{422A2B04-0690-4851-AD5C-BBCF7B4EB9C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{C8730609-9E7A-4797-890D-11860CB57EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8730609-9E7A-4797-890D-11860CB57EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8730609-9E7A-4797-890D-11860CB57EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01DFDCF9-96C5-4115-BFD0-2F4B30A9B3A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01DFDCF9-96C5-4115-BFD0-2F4B30A9B3A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01DFDCF9-96C5-4115-BFD0-2F4B30A9B3A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01DFDCF9-96C5-4115-BFD0-2F4B30A9B3A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{422A2B04-0690-4851-AD5C-BBCF7B4EB9C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{422A2B04-0690-4851-AD5C-BBCF7B4EB9C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{422A2B04-0690-4851-AD5C-BBCF7B4EB9C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{422A2B04-0690-4851-AD5C-BBCF7B4EB9C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
