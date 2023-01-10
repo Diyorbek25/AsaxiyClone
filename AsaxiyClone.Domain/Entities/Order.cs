@@ -8,4 +8,6 @@ public class Order
     public decimal DeliveryPrice { get; set; }
     public Guid UserId { get; set; }
     public User User { get; set; }
+
+    public ICollection<OrderDetail> OrderDetails { get; set; }
 }

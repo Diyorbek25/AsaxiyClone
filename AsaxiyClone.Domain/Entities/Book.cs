@@ -1,4 +1,6 @@
-﻿namespace AsaxiyClone.Domain.Entities;
+﻿using AsaxiyClone.Domain.Entities.Enums;
+
+namespace AsaxiyClone.Domain.Entities;
 
 public class Book
 {
@@ -6,5 +8,10 @@ public class Book
     public string Name { get; set; }
     public string Image { get; set; }
     public decimal Price { get; set; }
-    public Status Status { get; set; }
+    public BookStatus Status { get; set; }
+    public string Author { get; set; }
+    public int Rating { get; set; }
+
+    public Category Category { get; set; }
+    public ICollection<Comment> Comments { get; set; }
 }
