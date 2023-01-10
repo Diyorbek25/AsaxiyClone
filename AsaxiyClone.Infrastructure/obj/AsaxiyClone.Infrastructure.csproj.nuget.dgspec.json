@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\99890\\Desktop\\AsaxiyClone\\AsaxiyClone.Infrastructure\\AsaxiyClone.Infrastructure.csproj": {}
+    "C:\\Users\\mamat\\Desktop\\AsaxiyClone\\AsaxiyClone.Infrastructure\\AsaxiyClone.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\99890\\Desktop\\AsaxiyClone\\AsaxiyClone.Domain\\AsaxiyClone.Domain.csproj": {
+    "C:\\Users\\mamat\\Desktop\\AsaxiyClone\\AsaxiyClone.Domain\\AsaxiyClone.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\99890\\Desktop\\AsaxiyClone\\AsaxiyClone.Domain\\AsaxiyClone.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\mamat\\Desktop\\AsaxiyClone\\AsaxiyClone.Domain\\AsaxiyClone.Domain.csproj",
         "projectName": "AsaxiyClone.Domain",
-        "projectPath": "C:\\Users\\99890\\Desktop\\AsaxiyClone\\AsaxiyClone.Domain\\AsaxiyClone.Domain.csproj",
-        "packagesPath": "C:\\Users\\99890\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\99890\\Desktop\\AsaxiyClone\\AsaxiyClone.Domain\\obj\\",
+        "projectPath": "C:\\Users\\mamat\\Desktop\\AsaxiyClone\\AsaxiyClone.Domain\\AsaxiyClone.Domain.csproj",
+        "packagesPath": "C:\\Users\\mamat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mamat\\Desktop\\AsaxiyClone\\AsaxiyClone.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\99890\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mamat\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,21 +55,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\99890\\Desktop\\AsaxiyClone\\AsaxiyClone.Infrastructure\\AsaxiyClone.Infrastructure.csproj": {
+    "C:\\Users\\mamat\\Desktop\\AsaxiyClone\\AsaxiyClone.Infrastructure\\AsaxiyClone.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\99890\\Desktop\\AsaxiyClone\\AsaxiyClone.Infrastructure\\AsaxiyClone.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\mamat\\Desktop\\AsaxiyClone\\AsaxiyClone.Infrastructure\\AsaxiyClone.Infrastructure.csproj",
         "projectName": "AsaxiyClone.Infrastructure",
-        "projectPath": "C:\\Users\\99890\\Desktop\\AsaxiyClone\\AsaxiyClone.Infrastructure\\AsaxiyClone.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\99890\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\99890\\Desktop\\AsaxiyClone\\AsaxiyClone.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\mamat\\Desktop\\AsaxiyClone\\AsaxiyClone.Infrastructure\\AsaxiyClone.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\mamat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mamat\\Desktop\\AsaxiyClone\\AsaxiyClone.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\99890\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mamat\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -83,8 +83,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\99890\\Desktop\\AsaxiyClone\\AsaxiyClone.Domain\\AsaxiyClone.Domain.csproj": {
-                "projectPath": "C:\\Users\\99890\\Desktop\\AsaxiyClone\\AsaxiyClone.Domain\\AsaxiyClone.Domain.csproj"
+              "C:\\Users\\mamat\\Desktop\\AsaxiyClone\\AsaxiyClone.Domain\\AsaxiyClone.Domain.csproj": {
+                "projectPath": "C:\\Users\\mamat\\Desktop\\AsaxiyClone\\AsaxiyClone.Domain\\AsaxiyClone.Domain.csproj"
               }
             }
           }
@@ -126,7 +126,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
