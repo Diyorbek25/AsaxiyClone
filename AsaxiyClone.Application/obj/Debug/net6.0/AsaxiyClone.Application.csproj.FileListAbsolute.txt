@@ -1,0 +1,17 @@
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Application\bin\Debug\net6.0\AsaxiyClone.Application.deps.json
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Application\bin\Debug\net6.0\AsaxiyClone.Application.dll
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Application\bin\Debug\net6.0\AsaxiyClone.Application.pdb
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Application\bin\Debug\net6.0\AsaxiyClone.Domain.dll
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Application\bin\Debug\net6.0\AsaxiyClone.Infrastructure.dll
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Application\bin\Debug\net6.0\AsaxiyClone.Infrastructure.pdb
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Application\bin\Debug\net6.0\AsaxiyClone.Domain.pdb
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Application\obj\Debug\net6.0\AsaxiyClone.Application.csproj.AssemblyReference.cache
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Application\obj\Debug\net6.0\AsaxiyClone.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Application\obj\Debug\net6.0\AsaxiyClone.Application.AssemblyInfoInputs.cache
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Application\obj\Debug\net6.0\AsaxiyClone.Application.AssemblyInfo.cs
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Application\obj\Debug\net6.0\AsaxiyClone.Application.csproj.CoreCompileInputs.cache
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Application\obj\Debug\net6.0\AsaxiyClone.Application.csproj.CopyComplete
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Application\obj\Debug\net6.0\AsaxiyClone.Application.dll
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Application\obj\Debug\net6.0\refint\AsaxiyClone.Application.dll
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Application\obj\Debug\net6.0\AsaxiyClone.Application.pdb
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Application\obj\Debug\net6.0\ref\AsaxiyClone.Application.dll

@@ -1,0 +1,12 @@
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Domain\bin\Debug\net6.0\AsaxiyClone.Domain.deps.json
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Domain\bin\Debug\net6.0\AsaxiyClone.Domain.dll
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Domain\bin\Debug\net6.0\AsaxiyClone.Domain.pdb
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Domain\obj\Debug\net6.0\AsaxiyClone.Domain.csproj.AssemblyReference.cache
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Domain\obj\Debug\net6.0\AsaxiyClone.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Domain\obj\Debug\net6.0\AsaxiyClone.Domain.AssemblyInfoInputs.cache
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Domain\obj\Debug\net6.0\AsaxiyClone.Domain.AssemblyInfo.cs
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Domain\obj\Debug\net6.0\AsaxiyClone.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Domain\obj\Debug\net6.0\AsaxiyClone.Domain.dll
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Domain\obj\Debug\net6.0\refint\AsaxiyClone.Domain.dll
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Domain\obj\Debug\net6.0\AsaxiyClone.Domain.pdb
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Domain\obj\Debug\net6.0\ref\AsaxiyClone.Domain.dll

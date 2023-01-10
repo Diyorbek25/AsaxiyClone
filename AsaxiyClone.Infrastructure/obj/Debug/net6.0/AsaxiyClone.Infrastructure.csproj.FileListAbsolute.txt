@@ -1,0 +1,17 @@
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Infrastructure\bin\Debug\net6.0\AsaxiyClone.Infrastructure.deps.json
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Infrastructure\bin\Debug\net6.0\AsaxiyClone.Infrastructure.runtimeconfig.json
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Infrastructure\bin\Debug\net6.0\AsaxiyClone.Infrastructure.dll
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Infrastructure\bin\Debug\net6.0\AsaxiyClone.Infrastructure.pdb
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Infrastructure\bin\Debug\net6.0\AsaxiyClone.Domain.dll
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Infrastructure\bin\Debug\net6.0\AsaxiyClone.Domain.pdb
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Infrastructure\obj\Debug\net6.0\AsaxiyClone.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Infrastructure\obj\Debug\net6.0\AsaxiyClone.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Infrastructure\obj\Debug\net6.0\AsaxiyClone.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Infrastructure\obj\Debug\net6.0\AsaxiyClone.Infrastructure.AssemblyInfo.cs
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Infrastructure\obj\Debug\net6.0\AsaxiyClone.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Infrastructure\obj\Debug\net6.0\AsaxiyClone.Infrastructure.csproj.CopyComplete
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Infrastructure\obj\Debug\net6.0\AsaxiyClone.Infrastructure.dll
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Infrastructure\obj\Debug\net6.0\refint\AsaxiyClone.Infrastructure.dll
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Infrastructure\obj\Debug\net6.0\AsaxiyClone.Infrastructure.pdb
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Infrastructure\obj\Debug\net6.0\AsaxiyClone.Infrastructure.genruntimeconfig.cache
+C:\Users\mamat\Desktop\AsaxiyClone\AsaxiyClone.Infrastructure\obj\Debug\net6.0\ref\AsaxiyClone.Infrastructure.dll
