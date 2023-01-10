@@ -1,3 +1,5 @@
+using AsaxiyClone.Api.Extensions;
+
 namespace AsaxiyClone.Api
 {
     public class Program
@@ -8,6 +10,7 @@ namespace AsaxiyClone.Api
 
             // Add services to the container.
 
+            builder.Services.AddDbContexts(builder.Configuration);
             builder.Services.AddControllers();
             
             builder.Services.AddEndpointsApiExplorer();
