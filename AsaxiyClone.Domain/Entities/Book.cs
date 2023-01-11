@@ -12,6 +12,7 @@ public class Book
     public string Author { get; set; }
     public int Rating { get; set; }
 
+    public Guid CategoryId { get; set; }
     public Category Category { get; set; }
     public ICollection<Comment> Comments { get; set; }
 }
