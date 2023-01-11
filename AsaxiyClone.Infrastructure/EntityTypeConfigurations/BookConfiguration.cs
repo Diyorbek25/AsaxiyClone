@@ -31,12 +31,15 @@ namespace AsaxiyClone.Infrastructure.EntityTypeConfigurations
             builder.Property(book => book.Rating)
                 .IsRequired(false);
 
-            builder.HasOne(book => book.Category)
-                .WithOne(category => category.Book);
+            builder.HasOne<Category>(book => book.Category)
+                .WithMany(category => category.Books)
+                .HasForeignKey(book => book.CategoryId)
+                .OnDelete(DeleteBehavior.SetNull);
 
             builder.HasMany(book => book.Comments)
                 .WithOne(comment => comment.Book)   
-                .HasForeignKey(comment => comment.BookId);
+                .HasForeignKey(comment => comment.BookId)
+                .OnDelete(DeleteBehavior.SetNull);
         }
     }
 }
