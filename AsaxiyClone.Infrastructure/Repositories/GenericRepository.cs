@@ -45,6 +45,7 @@ public abstract class GenericRepository<TEntity, TKey> : IGeneralRepository<TEnt
 
         return deleteEntity.Entity;
     }
+
     public async ValueTask SaveChangeSync()
     {
         await this.asaxiyCloneDBContext.SaveChangesAsync();
