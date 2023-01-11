@@ -10,4 +10,5 @@ public class Order
     public User User { get; set; }
 
     public ICollection<OrderDetail> OrderDetails { get; set; }
+    public ICollection<UserHistory> UserHistories { get; set; }
 }
