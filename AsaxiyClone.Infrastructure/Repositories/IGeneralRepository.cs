@@ -1,12 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿namespace AsaxiyClone.Infrastructure.Repositories;
 
-namespace AsaxiyClone.Infrastructure.Repositories
+public interface IGeneralRepository<TEntity,TKey>
 {
-    internal interface IGeneralRepository
-    {
-    }
+    ValueTask<TEntity> InsertAsync(TEntity entity);
+
+    IQueryable<TEntity> SelectAll();
+
+    ValueTask<TEntity> SelectAllByIdAsync(TKey id);
+
+    ValueTask<TEntity> UpdateAsync(TEntity entity);
+
+    ValueTask<TEntity> DeleteAsync(TEntity entity);
+
+    ValueTask SaveChangeSync();
 }
