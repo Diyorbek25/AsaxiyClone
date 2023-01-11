@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\99890\\Desktop\\AsaxiyClone\\AsaxiyClone.Application\\AsaxiyClone.Application.csproj": {}
+    "C:\\Users\\user\\Desktop\\Asp.Net\\AsaxiyClone\\AsaxiyClone.Application\\AsaxiyClone.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\99890\\Desktop\\AsaxiyClone\\AsaxiyClone.Application\\AsaxiyClone.Application.csproj": {
+    "C:\\Users\\user\\Desktop\\Asp.Net\\AsaxiyClone\\AsaxiyClone.Application\\AsaxiyClone.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\99890\\Desktop\\AsaxiyClone\\AsaxiyClone.Application\\AsaxiyClone.Application.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Asp.Net\\AsaxiyClone\\AsaxiyClone.Application\\AsaxiyClone.Application.csproj",
         "projectName": "AsaxiyClone.Application",
-        "projectPath": "C:\\Users\\99890\\Desktop\\AsaxiyClone\\AsaxiyClone.Application\\AsaxiyClone.Application.csproj",
-        "packagesPath": "C:\\Users\\99890\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\99890\\Desktop\\AsaxiyClone\\AsaxiyClone.Application\\obj\\",
+        "projectPath": "C:\\Users\\user\\Desktop\\Asp.Net\\AsaxiyClone\\AsaxiyClone.Application\\AsaxiyClone.Application.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Asp.Net\\AsaxiyClone\\AsaxiyClone.Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\99890\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\99890\\Desktop\\AsaxiyClone\\AsaxiyClone.Infrastructure\\AsaxiyClone.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\99890\\Desktop\\AsaxiyClone\\AsaxiyClone.Infrastructure\\AsaxiyClone.Infrastructure.csproj"
+              "C:\\Users\\user\\Desktop\\Asp.Net\\AsaxiyClone\\AsaxiyClone.Infrastructure\\AsaxiyClone.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\Asp.Net\\AsaxiyClone\\AsaxiyClone.Infrastructure\\AsaxiyClone.Infrastructure.csproj"
               }
             }
           }
@@ -63,17 +68,21 @@
         }
       }
     },
-    "C:\\Users\\99890\\Desktop\\AsaxiyClone\\AsaxiyClone.Domain\\AsaxiyClone.Domain.csproj": {
+    "C:\\Users\\user\\Desktop\\Asp.Net\\AsaxiyClone\\AsaxiyClone.Domain\\AsaxiyClone.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\99890\\Desktop\\AsaxiyClone\\AsaxiyClone.Domain\\AsaxiyClone.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Asp.Net\\AsaxiyClone\\AsaxiyClone.Domain\\AsaxiyClone.Domain.csproj",
         "projectName": "AsaxiyClone.Domain",
-        "projectPath": "C:\\Users\\99890\\Desktop\\AsaxiyClone\\AsaxiyClone.Domain\\AsaxiyClone.Domain.csproj",
-        "packagesPath": "C:\\Users\\99890\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\99890\\Desktop\\AsaxiyClone\\AsaxiyClone.Domain\\obj\\",
+        "projectPath": "C:\\Users\\user\\Desktop\\Asp.Net\\AsaxiyClone\\AsaxiyClone.Domain\\AsaxiyClone.Domain.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Asp.Net\\AsaxiyClone\\AsaxiyClone.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\99890\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -81,6 +90,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -118,17 +128,21 @@
         }
       }
     },
-    "C:\\Users\\99890\\Desktop\\AsaxiyClone\\AsaxiyClone.Infrastructure\\AsaxiyClone.Infrastructure.csproj": {
+    "C:\\Users\\user\\Desktop\\Asp.Net\\AsaxiyClone\\AsaxiyClone.Infrastructure\\AsaxiyClone.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\99890\\Desktop\\AsaxiyClone\\AsaxiyClone.Infrastructure\\AsaxiyClone.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Asp.Net\\AsaxiyClone\\AsaxiyClone.Infrastructure\\AsaxiyClone.Infrastructure.csproj",
         "projectName": "AsaxiyClone.Infrastructure",
-        "projectPath": "C:\\Users\\99890\\Desktop\\AsaxiyClone\\AsaxiyClone.Infrastructure\\AsaxiyClone.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\99890\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\99890\\Desktop\\AsaxiyClone\\AsaxiyClone.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\user\\Desktop\\Asp.Net\\AsaxiyClone\\AsaxiyClone.Infrastructure\\AsaxiyClone.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Asp.Net\\AsaxiyClone\\AsaxiyClone.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\99890\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -136,14 +150,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\99890\\Desktop\\AsaxiyClone\\AsaxiyClone.Domain\\AsaxiyClone.Domain.csproj": {
-                "projectPath": "C:\\Users\\99890\\Desktop\\AsaxiyClone\\AsaxiyClone.Domain\\AsaxiyClone.Domain.csproj"
+              "C:\\Users\\user\\Desktop\\Asp.Net\\AsaxiyClone\\AsaxiyClone.Domain\\AsaxiyClone.Domain.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\Asp.Net\\AsaxiyClone\\AsaxiyClone.Domain\\AsaxiyClone.Domain.csproj"
               }
             }
           }
