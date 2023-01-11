@@ -18,4 +18,8 @@
     <ProjectReference Include="..\AsaxiyClone.Domain\AsaxiyClone.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="EntityTypeConfigurations\" />
+  </ItemGroup>
+
 </Project>
