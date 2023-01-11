@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "YoE0Rj7+T1vU9ZeuIVr2a4FE8nNIsUP4nwHJ+vfN/kShkoVhPRDfRQ3hmOXljvntHl6bkQB6akPiw/Ow9ZLkkA==",
+  "dgSpecHash": "ZqPHL0Xy5BByssMO+kZKFNj3e/lKcsnX3Ci7WCjqAmSkSnePobpwDRO+ptjnx8cXLmxTdLSUKRqVj1kVkxsCoQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\99890\\Desktop\\AsaxiyClone\\AsaxiyClone.Domain\\AsaxiyClone.Domain.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\99890\\Desktop\\AsaxiyClone\\AsaxiyClone.Domain\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

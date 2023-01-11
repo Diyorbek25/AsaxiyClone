@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "dehAfX661qgeYwZAhLXtdR5mFjASLjVlXizfwCQtetjkooRxNhsvDSmiqovY37Ryu0sB5k0ovVvP49MpL+RDvw==",
+  "dgSpecHash": "8R/cLRKlTxBTzUQJiD9ZOAGnf5i3ycuTRr1PSicaHeA1z7/K0rhnT3zmcBsccKTbIbUF+EUcgfTCUhujtyiOZA==",
   "success": true,
   "projectFilePath": "C:\\Users\\99890\\Desktop\\AsaxiyClone\\AsaxiyClone.Api\\AsaxiyClone.Api.csproj",
   "expectedPackageFiles": [
@@ -78,5 +78,12 @@
     "C:\\Users\\99890\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\99890\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\99890\\Desktop\\AsaxiyClone\\AsaxiyClone.Api\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
