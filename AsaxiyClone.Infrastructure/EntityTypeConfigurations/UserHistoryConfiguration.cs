@@ -16,13 +16,12 @@ public class UserHistoryConfiguration : IEntityTypeConfiguration<UserHistory>
 
         builder.HasOne<User>(history => history.User)
             .WithMany(user => user.UserHistories)
-            .HasForeignKey(history => history.UserId)
-            .OnDelete(DeleteBehavior.Cascade);
+            .HasForeignKey(history => history.UserId);
 
         builder.HasOne<Order>(history => history.Order)
             .WithMany(order => order.UserHistories)
             .HasForeignKey(history => history.OrderId)
-            .OnDelete(DeleteBehavior.Cascade);
+            .OnDelete(DeleteBehavior.NoAction);
 
     }
 }

@@ -9,7 +9,6 @@ public class OrderDetail
     public Guid BookId { get; set; }
     public Book Book { get; set; }
 
-    public decimal BookPrice { get; set; }
     public DateTime OrderTime { get; set; }
     public DateTime DeliveryTime { get; set; }
 }

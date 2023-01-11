@@ -20,6 +20,7 @@ namespace AsaxiyClone.Infrastructure.EntityTypeConfigurations
                 .IsRequired(true);
 
             builder.Property(book => book.Price)
+                .HasColumnType("decimal")
                 .IsRequired(true);
 
             builder.Property(book => book.Status)
@@ -33,13 +34,11 @@ namespace AsaxiyClone.Infrastructure.EntityTypeConfigurations
 
             builder.HasOne<Category>(book => book.Category)
                 .WithMany(category => category.Books)
-                .HasForeignKey(book => book.CategoryId)
-                .OnDelete(DeleteBehavior.SetNull);
+                .HasForeignKey(book => book.CategoryId);
 
             builder.HasMany(book => book.Comments)
-                .WithOne(comment => comment.Book)   
-                .HasForeignKey(comment => comment.BookId)
-                .OnDelete(DeleteBehavior.SetNull);
+                .WithOne(comment => comment.Book)
+                .HasForeignKey(comment => comment.BookId);
         }
     }
 }

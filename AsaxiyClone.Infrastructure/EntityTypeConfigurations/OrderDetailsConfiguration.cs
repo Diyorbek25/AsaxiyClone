@@ -11,9 +11,6 @@ public class OrderDetailsConfiguration : IEntityTypeConfiguration<OrderDetail>
         builder.ToTable(nameof(OrderDetail))
             .HasKey(orderDetail => orderDetail.Id);
 
-        builder.Property(orderDetail => orderDetail.BookPrice)
-            .IsRequired(true);
-
         builder.Property(orderDetail => orderDetail.OrderTime)
             .IsRequired(true);
 

@@ -24,7 +24,6 @@ public class CommentConfiguration : IEntityTypeConfiguration<Comment>
 
         builder.HasOne<Book>(comment => comment.Book)
             .WithMany(book => book.Comments)
-            .HasForeignKey(comment => comment.BookId)
-            .OnDelete(DeleteBehavior.SetNull);
+            .HasForeignKey(comment => comment.BookId);
     }
 }
