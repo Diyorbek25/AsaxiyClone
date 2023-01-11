@@ -1,6 +1,6 @@
 ﻿namespace AsaxiyClone.Domain.Entities;
 
-public class Bucket
+public class Basket
 {
     public Guid Id { get; set; }
     public int Pieces { get; set; }

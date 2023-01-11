@@ -13,7 +13,7 @@ public class User
     public Guid AddressId { get; set; }
     public Address Address { get; set; }
 
-    public Bucket Bucket { get; set; }
+    public Basket Basket { get; set; }
 
     public ICollection<Order> Orders { get; set; }
     public ICollection<Comment> Comments { get; set; }
