@@ -3,6 +3,7 @@
 public class Comment
 {
     public Guid Id { get; set; }
+    public string Body { get; set; }
     public DateTime Date { get; set; }
 
     public Guid UserId { get; set; }
