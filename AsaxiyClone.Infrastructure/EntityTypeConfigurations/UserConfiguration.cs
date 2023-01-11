@@ -22,5 +22,10 @@ public class UserConfiguration : IEntityTypeConfiguration<User>
         builder.Property(user => user.PhoneNumber)
             .HasMaxLength(30)
             .IsRequired();
+
+        builder.HasOne<Address>(user => user.Address)
+            .WithOne()
+            .HasForeignKey<User>(user => user.AddressId)
+            .OnDelete(DeleteBehavior.Cascade);
     }
 }
